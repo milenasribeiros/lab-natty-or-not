@@ -39,6 +39,8 @@ Finalização no Canva: Integramos o vídeo em uma apresentação visual, simula
 
 O projeto gerou um vídeo convincente, onde o avatar descreve o momento emocionante da vitória de Fernanda Torres no Oscar. O clipe é apresentado no formato de um anúncio fictício, simulando a uma pessoa assistindo à notícia no YouTube.
 
+<video src="/exemplos/resultado.mp4" controls="controls" style="max-width: 100%; height: auto;">
+</video>
 
 💭 Reflexão
 
