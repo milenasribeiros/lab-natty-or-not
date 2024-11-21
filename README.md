@@ -1,51 +1,47 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+🌟 Notícias que Trazem Felicidade!
 
-> Woooow! Look at this 👀
+🚀 Introdução
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Este projeto combina tecnologias de IA generativas para criar cenários fictícios e emocionantes, como a vitória de Fernanda Torres no Oscar pelo filme Ainda Estou Aqui. O vídeo gerado simula um avatar descrevendo esse momento histórico que emocionaria o povo brasileiro. O objetivo é explorar o poder das ferramentas de IA na produção de conteúdos criativos, misturando storytelling, arte visual e tecnologia.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+📒 Descrição
+Neste projeto:
 
-### Objetivos
+Criamos um discurso fictício de Fernanda Torres sobre sua vitória.
+Utilizamos IA para gerar áudio e vídeo, simulando um anúncio oficial no YouTube.
+Combinamos as ferramentas para apresentar um conteúdo convincente e imersivo, como se fosse um clipe real de uma notícia emocionante.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🤖 Tecnologias Utilizadas
 
-### Template
+IA para Textos e Roteiros
+ChatGPT: Desenvolvemos descrições detalhadas para os cenários e o roteiro do vídeo.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+IA para Gerar Áudio
+Eleven Labs: Criamos a narração em áudio com um tom natural e profissional, ajustado para soar como uma verdadeira homenagem.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+IA para Gerar Vídeo
+D-ID: Produzimos o vídeo com um avatar que sincroniza movimentos faciais e fala, trazendo vida ao discurso criado.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Edição Final
+Canva: Montamos uma cena que simula uma pessoa assistindo ao vídeo no YouTube, completando a experiência de um anúncio fictício.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+🧐 Processo de Criação
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Planejamento: Escolhemos o tema e os momentos-chave: Fernanda Torres discursando no palco do Oscar e a celebração do filme Ainda Estou Aqui.
+Criação do Texto: Usamos o ChatGPT para elaborar o roteiro do discurso de vitória e as descrições das cenas.
+Produção do Áudio: Com o Eleven Labs, criamos um áudio natural e emotivo, ajustando a entonação para transmitir alegria e gratidão.
+Geração do Vídeo: Subimos o áudio e uma imagem de avatar no D-ID, sincronizando a fala com expressões faciais para criar um vídeo realista.
+Finalização no Canva: Integramos o vídeo em uma apresentação visual, simulando o layout de uma pessoa assistindo no YouTube.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+🚀 Resultados
+
+O projeto gerou um vídeo convincente, onde o avatar descreve o momento emocionante da vitória de Fernanda Torres no Oscar. O clipe é apresentado no formato de um anúncio fictício, simulando a uma pessoa assistindo à notícia no YouTube.
+
+
+💭 Reflexão
+
+Este projeto destaca como as IAs generativas estão transformando o storytelling, permitindo a criação de conteúdos "fake natty" tão impactantes quanto histórias reais. Apesar de fictício, o resultado é capaz de emocionar, provocando reflexões sobre a linha tênue entre realidade e simulação. Criar algo tão convincente foi um exercício de criatividade e ética, pois mostra o potencial dessas ferramentas, mas também reforça a importância de usá-las com responsabilidade.
+
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
